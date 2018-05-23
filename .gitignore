@@ -1,0 +1,4 @@
+venv
+questions.db
+.vagrant
+__pycache__
