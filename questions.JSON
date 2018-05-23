@@ -5,23 +5,28 @@
       "question": "Which do you care most about?",
       "answers": [
         {
-          "id": "001_white",
+          "id": "1",
+          "color": "white",
           "answer": "Peace."
         },
         {
-          "id": "001_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Cleverness."
         },
         {
-          "id": "001_black",
+          "id": "3",
+          "color": "black",
           "answer": "Wealth."
         },
         {
-          "id": "001_red",
+          "id": "4",
+          "color": "red",
           "answer": "Creation."
         },
         {
-          "id": "001_green",
+          "id": "5",
+          "color": "green",
           "answer": "Contentment."
         }
       ]
@@ -31,23 +36,28 @@
       "question": "Where do you feel most at home?",
       "answers": [
         {
-          "id": "002_white",
+          "id": "1",
+          "color": "white",
           "answer": "A church."
         },
         {
-          "id": "002_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "A university or a research lab."
         },
         {
-          "id": "002_black",
+          "id": "3",
+          "color": "black",
           "answer": "A hedge fund or startup."
         },
         {
-          "id": "002_red",
+          "id": "4",
+          "color": "red",
           "answer": "An art studios that’s owned by no one where there’s paint on every wall and it’s almost impossible to move around what with all of the dancing and debating and half-finished projects."
         },
         {
-          "id": "002_green",
+          "id": "5",
+          "color": "green",
           "answer": "A hippie commune."
         }
       ]
@@ -57,23 +67,28 @@
       "question": "Which pair of words are most important to you?",
       "answers": [
         {
-          "id": "003_white",
+          "id": "1",
+          "color": "white",
           "answer": "Group, and order."
         },
         {
-          "id": "003_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Nurture, and reason."
         },
         {
-          "id": "003_black",
+          "id": "3",
+          "color": "black",
           "answer": "Individual, and exploitation."
         },
         {
-          "id": "003_red",
+          "id": "4",
+          "color": "red",
           "answer": "Chaos, and emotion."
         },
         {
-          "id": "003_green",
+          "id": "5",
+          "color": "green",
           "answer": "Nature, and preservation."
         }
       ]
@@ -83,23 +98,28 @@
       "question": "Which pair of words has the most meaning to you?",
       "answers": [
         {
-          "id": "004_white",
+          "id": "1",
+          "color": "white",
           "answer": "Authority, and compassion."
         },
         {
-          "id": "004_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Challenge, and competence."
         },
         {
-          "id": "004_black",
+          "id": "3",
+          "color": "black",
           "answer": "Achievement, and autonomy."
         },
         {
-          "id": "004_red",
+          "id": "4",
+          "color": "red",
           "answer": "Authenticity, and adventure."
         },
         {
-          "id": "004_green",
+          "id": "5",
+          "color": "green",
           "answer": "Growth, and harmony."
         }
       ]
@@ -109,23 +129,28 @@
       "question": "Which pair of words are most important to you?",
       "answers": [
         {
-          "id": "005_white",
+          "id": "1",
+          "color": "white",
           "answer": "Community, and contribution."
         },
         {
-          "id": "005_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Creativity, and curiosity."
         },
         {
-          "id": "005_black",
+          "id": "3",
+          "color": "black",
           "answer": "Determination, and fame."
         },
         {
-          "id": "005_red",
+          "id": "4",
+          "color": "red",
           "answer": "Beauty, and boldness."
         },
         {
-          "id": "005_green",
+          "id": "5",
+          "color": "green",
           "answer": "Respect, and spirituality."
         }
       ]
@@ -135,23 +160,28 @@
       "question": "Which pair of words are most valuable?",
       "answers": [
         {
-          "id": "006_white",
+          "id": "1",
+          "color": "white",
           "answer": "Fairness, and happiness."
         },
         {
-          "id": "006_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Knowledge, and optimism."
         },
         {
-          "id": "006_black",
+          "id": "3",
+          "color": "black",
           "answer": "Influence, and pleasure."
         },
         {
-          "id": "006_red",
+          "id": "4",
+          "color": "red",
           "answer": "Friendship, and fun."
         },
         {
-          "id": "006_green",
+          "id": "5",
+          "color": "green",
           "answer": "Stability, and acceptance."
         }
       ]
@@ -161,23 +191,28 @@
       "question": "Which pair of words are most important to you?",
       "answers": [
         {
-          "id": "007_white",
+          "id": "1",
+          "color": "white",
           "answer": "Honesty, and justice."
         },
         {
-          "id": "007_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Accuracy, and adaptability."
         },
         {
-          "id": "007_black",
+          "id": "3",
+          "color": "black",
           "answer": "Popularity, and reputation."
         },
         {
-          "id": "007_red",
+          "id": "4",
+          "color": "red",
           "answer": "Humor, and loyalty."
         },
         {
-          "id": "007_green",
+          "id": "5",
+          "color": "green",
           "answer": "Calm, and centered."
         }
       ]
@@ -187,23 +222,28 @@
       "question": "Which pair of words are most important to you?",
       "answers": [
         {
-          "id": "008_white",
+          "id": "1",
+          "color": "white",
           "answer": "Kindness, and leadership."
         },
         {
-          "id": "008_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Awareness, and brilliance."
         },
         {
-          "id": "008_black",
+          "id": "3",
+          "color": "black",
           "answer": "Success, and status."
         },
         {
-          "id": "008_red",
+          "id": "4",
+          "color": "red",
           "answer": "Candor, and courage."
         },
         {
-          "id": "008_green",
+          "id": "5",
+          "color": "green",
           "answer": "Cautious, and common sense."
         }
       ]
@@ -213,23 +253,28 @@
       "question": "Choose which statement is most relatable?",
       "answers": [
         {
-          "id": "009_white",
+          "id": "1",
+          "color": "white",
           "answer": "When presented with a decision or quandary, you ask what is the right course of action to take, where “right” depends on their moral or cultural framework."
         },
         {
-          "id": "009_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "When presented with a decision or quandary, you ask what course of action makes the most sense, where “sense” is determined by careful thought and the application of knowledge and expertise."
         },
         {
-          "id": "009_black",
+          "id": "3",
+          "color": "black",
           "answer": "When presented with a decision or quandary, you ask what course of action will leave me best off, where “best off” includes having power, influence, safety, and wealth, as well as having moved closer to your goals."
         },
         {
-          "id": "009_red",
+          "id": "4",
+          "color": "red",
           "answer": "When presented with a decision or quandary, you ask what do I feel like doing?"
         },
         {
-          "id": "009_green",
+          "id": "5",
+          "color": "green",
           "answer": "When presented with a decision or quandary, you ask how are these things usually done? What is the established wisdom?"
         }
       ]
@@ -239,23 +284,28 @@
       "question": "Which group of characters do you relate to the most?",
       "answers": [
         {
-          "id": "010_white",
+          "id": "1",
+          "color": "white",
           "answer": "Brienne of Tarth from Game of Thrones, Ozymandias from Watchmen, Superman, McGonagall from Harry Potter and the Methods of Rationality, and Marge from The Simpsons"
         },
         {
-          "id": "010_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Spock from Star Trek and Dr. Manhattan from Watchmen. Lisa from The Simpsons, and Ravenclaw House from Harry Potter."
         },
         {
-          "id": "010_black",
+          "id": "3",
+          "color": "black",
           "answer": "Han Solo, Cersei Lannister, every major character in Seinfeld except Kramer, and both Bart Simpson and Slytherin House."
         },
         {
-          "id": "010_red",
+          "id": "4",
+          "color": "red",
           "answer": "Toph Beifong from Avatar: The Last Airbender, Wile E. Coyote from Looney Toons, both Romeo and Juliet, Kramer from Seinfeld, and Homer Simpson."
         },
         {
-          "id": "010_green",
+          "id": "5",
+          "color": "green",
           "answer": "Both Yoda from Star Wars and Guinan from Star Trek, Tom Bombadil from Lord of the Rings, Buffy the vampire slayer (later in the series), and Wolverine from X-Men."
         }
       ]
@@ -265,23 +315,28 @@
       "question": "What's most important to you?",
       "answers": [
         {
-          "id": "011_white",
+          "id": "1",
+          "color": "white",
           "answer": "Religion."
         },
         {
-          "id": "011_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Efficiency."
         },
         {
-          "id": "011_black",
+          "id": "3",
+          "color": "black",
           "answer": "Control."
         },
         {
-          "id": "011_red",
+          "id": "4",
+          "color": "red",
           "answer": "Drive."
         },
         {
-          "id": "011_green",
+          "id": "5",
+          "color": "green",
           "answer": "Being experienced."
         }
       ]
@@ -291,23 +346,28 @@
       "question": "What do you care about?",
       "answers": [
         {
-          "id": "012_white",
+          "id": "1",
+          "color": "white",
           "answer": "Responsibility."
         },
         {
-          "id": "012_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Development."
         },
         {
-          "id": "012_black",
+          "id": "3",
+          "color": "black",
           "answer": "Ambition."
         },
         {
-          "id": "012_red",
+          "id": "4",
+          "color": "red",
           "answer": "Empathy."
         },
         {
-          "id": "012_green",
+          "id": "5",
+          "color": "green",
           "answer": "Humility."
         }
       ]
@@ -317,23 +377,28 @@
       "question": "Which one is most important to you?",
       "answers": [
         {
-          "id": "013_white",
+          "id": "1",
+          "color": "white",
           "answer": "Security."
         },
         {
-          "id": "013_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Foresight."
         },
         {
-          "id": "013_black",
+          "id": "3",
+          "color": "black",
           "answer": "Dignity."
         },
         {
-          "id": "013_red",
+          "id": "4",
+          "color": "red",
           "answer": "Enthusiasm."
         },
         {
-          "id": "013_green",
+          "id": "5",
+          "color": "green",
           "answer": "Intuition."
         }
       ]
@@ -343,23 +408,28 @@
       "question": "Which one do you care most about?",
       "answers": [
         {
-          "id": "014_white",
+          "id": "1",
+          "color": "white",
           "answer": "Service."
         },
         {
-          "id": "014_blue",
+          "id": "2",
+          "color": "blue",
           "answer": "Imagination."
         },
         {
-          "id": "014_black",
+          "id": "3",
+          "color": "black",
           "answer": "Excellence."
         },
         {
-          "id": "014_red",
+          "id": "4",
+          "color": "red",
           "answer": "Ferocity."
         },
         {
-          "id": "014_green",
+          "id": "5",
+          "color": "green",
           "answer": "Maturity."
         }
       ]
