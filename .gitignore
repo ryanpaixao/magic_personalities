@@ -1,4 +1,5 @@
 venv
+notes
 questions.db
 .vagrant
 __pycache__
